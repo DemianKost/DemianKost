@@ -5,14 +5,14 @@ Here are links for my content: demian.party(official website), [Udemy](https://w
 I'm a full-stack web developer with 3+ years of experience. My interest in technology started when I was only 10 years old, and I remember how I tried to write simple web pages only with a few HTML tags. That is how my story begins 🙃
 
 So, as I said - for now, I'm full-stack developer, and here is a list of technologies that are in my stack:
-• PHP + Laravel (like the main framework)
-• WordPress
-• Design Patterns
-• OOP and SOLID
-• HTML/CSS, Bootstrap
-• JS, jQuery
-• Vue.js (as the main js-framework for front-end)
-• Shopify development
+- PHP + Laravel (like the main framework)
+- WordPress
+- Design Patterns
+- OOP and SOLID
+- HTML/CSS, Bootstrap
+- JS, jQuery
+- Vue.js (as the main js-framework for front-end)
+- Shopify development
 
 Also in 2018, I wrote my own book "PHP Junior Kit", and this book is good for everybody who wants to learn PHP as a beginner (you can find this book in Google Play).
 
