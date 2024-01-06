@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here are links for my content: [Official Website](htts://demian.party),[Udemy](https://www.udemy.com/user/demian-kostelny/), [Medium](https://medium.com/@demian.kostelny)
+Here are links for my content: [Official Website](htts://demian.party/), [Udemy](https://www.udemy.com/user/demian-kostelny/), [Medium](https://medium.com/@demian.kostelny)
 
 I'm a full-stack web developer with 3+ years of experience. My interest in technology started when I was only 10 years old, and I remember how I tried to write simple web pages only with a few HTML tags. That is how my story begins 🙃
 
