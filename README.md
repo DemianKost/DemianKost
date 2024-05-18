@@ -2,7 +2,7 @@
 
 Here are links for my content: demian.party(official website), [Udemy](https://www.udemy.com/user/demian-kostelny/), [Medium](https://medium.com/@demian.kostelny)
 
-I'm Middle PHP Developer with 3+ years of experience in E-Commerce development. Welcome to my official GitHub profile, where you can explore everything about my professional skills, latest posts and articles.
+I'm a Middle PHP Developer with 4+ years of experience in E-Commerce development. Welcome to my official GitHub profile, where you can explore everything about my professional skills, latest posts, and articles.
 
 Let me introduce myself from a technical perspective. Here is a list of all the skills I use or have experience with development:
 - Laravel/Symfony (as main PHP frameworks)
