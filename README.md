@@ -24,6 +24,8 @@ Let me introduce myself from a technical perspective. Here is a list of all the 
 
 Also in 2018, I wrote my own book "PHP Junior Kit", and this book is good for everybody who wants to learn PHP as a beginner (you can find this book in Google Play).
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DemianKost&layout=compact)
+
 <!--
 **DemianKost/DemianKost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
