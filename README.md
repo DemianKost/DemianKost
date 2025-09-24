@@ -38,7 +38,7 @@ Also in 2018, I wrote my own book "PHP Junior Kit", and this book is good for ev
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DemianKost&layout=compact)
 
-![Codewars](https://github.r2v.ch/codewars?user=DemianKost&stroke=%23BB432C)
+![image](https://www.codewars.com/users/DemianKost/badges/large)
 
 <!--
 **DemianKost/DemianKost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
